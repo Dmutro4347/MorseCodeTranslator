@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="LuxMin">Мінімальне освітлення</string>
+    <string name="swMorze">Морзе</string>
+    <string name="swLight">Light</string>
+    <string name="edtInputMorze">Введіть текст для кодування</string>
+    <string name="edtOutputMorze">Результат</string>
+    <string name="edtSpeedSize">Швидкість слова/хвилину</string>
+    <string-array name="speed">
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>30</item>
+    </string-array>
+</resources>
